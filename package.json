@@ -50,7 +50,7 @@
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
     "@release-it/conventional-changelog": "^2.0.0",
-    "@stream-io/flat-list-mvcp": "^0.10.0",
+    "@stream-io/flat-list-mvcp": "^0.10.0-beta.1",
     "@types/jest": "^26.0.0",
     "@types/react": "^16.9.19",
     "@types/react-native": "0.63.50",
